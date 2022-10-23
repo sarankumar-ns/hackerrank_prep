@@ -22,3 +22,14 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+.idea/hacker_rank.iml
+.idea/kotlinc.xml
+.idea/libraries/KotlinJavaRuntime.xml
+.idea/misc.xml
+.idea/modules.xml
+out/production/hacker_rank/META-INF/hacker_rank.kotlin_module
+out/production/hacker_rank/.idea/modules.xml
+out/production/hacker_rank/.idea/misc.xml
+out/production/hacker_rank/.idea/libraries/KotlinJavaRuntime.xml
+out/production/hacker_rank/.idea/kotlinc.xml
+out/production/hacker_rank/.idea/hacker_rank.iml
