@@ -29,8 +29,8 @@ import kotlin.text.*
 fun dynamicArray(n: Int, queries: Array<Array<Int>>): Array<Int> {
     // Write your code here
     var lastAnswer = 0
-    var arr: Array<MutableList<Int>> = Array<MutableList<Int>>(n) { MutableList(0) { 0 } }
-    var answers : MutableList<Int> = mutableListOf()
+    val arr: Array<MutableList<Int>> = Array<MutableList<Int>>(n) { MutableList(0) { 0 } }
+    val answers : MutableList<Int> = mutableListOf()
 
     for(query in queries.indices) {
 
